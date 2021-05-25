@@ -1,2 +1,2 @@
-# Online-simple-weather-forecast-system
-Online simple weather forecast system in JavaFx
+# Online-simple-weather-forecasting-system
+Online simple weather forecasting system in JavaFx
